@@ -5,4 +5,6 @@ package com.example.anku.helloworld;
  */
 
 public class testaddfile {
+
+    int a = 1;
 }
